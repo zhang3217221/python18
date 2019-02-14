@@ -16,7 +16,6 @@ generator 可迭代类型 也是生成器
 
 """
 
-
 from collections.abc import Iterable,Iterator
 
 "1 如何判断是否可以迭代"
